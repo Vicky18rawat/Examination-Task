@@ -1,6 +1,6 @@
 How to setup and run this project?
 -----------------------------------
-Simply run the python file in terminal or in command prompt using command "python task.py"
+Simply run the python file in terminal or in command prompt using command "python task.py". Pandas module should be installed, if not installed then install using "pip install pandas" command.
 
 Brief overview of code structure
 -------------------------------------
